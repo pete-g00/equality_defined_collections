@@ -1,0 +1,13 @@
+name: equality_defined_collections
+description: Classes like List and Set with equality based on the elements.
+version: 1.0.0
+homepage: https://github.com/pete-g00/equality_defined_collections
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  collection: ^1.14.13
+
+dev_dependencies:
+  pedantic: ^1.9.0
